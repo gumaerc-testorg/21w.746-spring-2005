@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 76b45271-996a-03b8-81cd-c07cb2dee47f
 resourcetype: Document
 title: assignment1_med.pdf
 uid: 0fcbb782-dd97-2a5c-965d-7146f3814f39

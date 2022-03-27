@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 76b45271-996a-03b8-81cd-c07cb2dee47f
 resourcetype: Document
 title: kandil_oath_explanation_2005.pdf
 uid: d6694230-2a67-819b-d4b8-c480b9dd366d

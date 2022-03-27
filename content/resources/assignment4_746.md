@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 76b45271-996a-03b8-81cd-c07cb2dee47f
 resourcetype: Document
 title: assignment4_746.pdf
 uid: 80d99379-9bdc-2a11-f783-8d518bc490a3

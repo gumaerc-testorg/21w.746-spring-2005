@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 16acf365-4c2b-3c36-3d8d-f88c05b77ecf
 resourcetype: Document
 title: grad_crit_table.pdf
 uid: ca18ef79-887f-3214-9591-585ea46a475a

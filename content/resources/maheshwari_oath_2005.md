@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 76b45271-996a-03b8-81cd-c07cb2dee47f
 resourcetype: Document
 title: maheshwari_oath_2005.pdf
 uid: 14a7ed71-af25-6153-98b6-c0d91d71fe6b

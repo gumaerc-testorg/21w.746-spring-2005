@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 76b45271-996a-03b8-81cd-c07cb2dee47f
 resourcetype: Document
 title: essay1_leung_2004.pdf
 uid: 6bcffabc-0a0f-7ac5-a965-2d36ec07d900

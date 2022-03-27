@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 76b45271-996a-03b8-81cd-c07cb2dee47f
 resourcetype: Document
 title: kandil_drug_pricing_2005.pdf
 uid: bcb8cf7a-f734-b062-d4e2-95476af4b5cf

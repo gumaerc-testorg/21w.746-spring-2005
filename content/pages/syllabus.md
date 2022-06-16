@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, attendance policy, portfolios, peer review, grading,
+  and plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -54,7 +57,7 @@ For each day of peer review, you will be required to bring several copies of you
 Grading Criteria
 ----------------
 
-See Grading Criteria Sheet ([PDF]({{< baseurl >}}/resources/grad_crit_table))
+See Grading Criteria Sheet ({{% resource_link ca18ef79-887f-3214-9591-585ea46a475a "PDF" %}})
 
 Plagiarism
 ----------

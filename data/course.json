@@ -42,7 +42,9 @@
   },
   "course_title": "Humanistic Perspectives on Medicine: From Ancient Greece to Modern America",
   "course_description": "This course is designed to explore the human side of medicine: the nature of the physician's identity and obligations; the history and philosophy of the Western medical tradition; the experience of being ill and being a patient; and the challenges of medical ethics. The writing in this class is therefore conceived as an instrument of exploration, and is an integral part of the class's activities.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.746",
   "course_image_thumbnail": {
@@ -52,6 +54,6 @@
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
-  "site_uid": "4e52cb71-aa02-47da-8038-57ab4dd54243",
+  "site_uid": "9464e4b3-e173-4643-86fb-1409bb448aeb",
   "title": "Course Metadata"
 }

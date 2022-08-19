@@ -7,6 +7,7 @@ file: /courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: essay3_research_2005.pdf
 uid: 2196e41a-d0f4-e1d8-9700-85d1642e3e11
 ---
 The purpose of this research essay is to allow you to engage in a long writing project in which you deeply engage some issue of profound interest to you in the broad, interdisciplinary field of medicine and humanities.
-

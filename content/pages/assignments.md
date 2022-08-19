@@ -1,8 +1,5 @@
 ---
 content_type: page
-description: This section provides assignment descriptions and student work from the
-  course. There are sections for both the Spring 2004 and Spring 2005 instances of
-  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

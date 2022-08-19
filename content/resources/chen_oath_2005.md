@@ -6,6 +6,7 @@ file: /courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chen_oath_2005.pdf
 uid: a4f1ca78-2c3a-877f-4b7c-30b316309efb
 ---
 Example of student work for Assignment 1 courtesy of Tiffany Chen, a student in the class.
-

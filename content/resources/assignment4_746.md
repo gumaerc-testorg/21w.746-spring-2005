@@ -8,6 +8,7 @@ file: /courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: assignment4_746.pdf
 uid: 80d99379-9bdc-2a11-f783-8d518bc490a3
 ---
 This resource gives the final assignment for the course which is to write a meditative essay on - the place of community in the treatment of depression, the function of the doctor in terms of the geopolitics of medicine or a topic of personal choice after consulting the instructor.
-

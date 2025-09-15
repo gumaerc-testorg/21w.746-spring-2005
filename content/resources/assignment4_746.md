@@ -4,7 +4,8 @@ description: This resource gives the final assignment for the course which is to
   a meditative essay on - the place of community in the treatment of depression, the
   function of the doctor in terms of the geopolitics of medicine or a topic of personal
   choice after consulting the instructor.
-file: /courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/80d993799bdc2a11f7838d518bc490a3_assignment4_746.pdf
+file: /ol-ocw-studio-app/courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/80d993799bdc2a11f7838d518bc490a3_assignment4_746.pdf
+file_size: 51110
 file_type: application/pdf
 learning_resource_types:
 - Assignments

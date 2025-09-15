@@ -2,7 +2,8 @@
 content_type: resource
 description: Example of work for Assignment 1 courtesy of Richa Maheshwari, a student
   in the class.
-file: /courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/14a7ed71af25615398b6c0d91d71fe6b_maheshwari_oath_2005.pdf
+file: /ol-ocw-studio-app/courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/14a7ed71af25615398b6c0d91d71fe6b_maheshwari_oath_2005.pdf
+file_size: 29606
 file_type: application/pdf
 learning_resource_types:
 - Assignments

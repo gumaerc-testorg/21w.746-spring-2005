@@ -3,7 +3,8 @@ content_type: resource
 description: The purpose of this research essay is to allow you to engage in a long
   writing project in which you deeply engage some issue of profound interest to you
   in the broad, interdisciplinary field of medicine and humanities.
-file: /courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/2196e41ad0f4e1d8970085d1642e3e11_essay3_research_2005.pdf
+file: /ol-ocw-studio-app/courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/2196e41ad0f4e1d8970085d1642e3e11_essay3_research_2005.pdf
+file_size: 54293
 file_type: application/pdf
 learning_resource_types:
 - Assignments

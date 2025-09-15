@@ -2,7 +2,8 @@
 content_type: resource
 description: Example of work for Assignment 1 courtesy of Abdurrahman Kandil, a student
   in the class.
-file: /courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/482b251f16447804d1b7c65577b70d21_kandil_oath_2005.pdf
+file: /ol-ocw-studio-app/courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/482b251f16447804d1b7c65577b70d21_kandil_oath_2005.pdf
+file_size: 10026
 file_type: application/pdf
 learning_resource_types:
 - Assignments

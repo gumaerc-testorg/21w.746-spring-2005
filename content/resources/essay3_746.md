@@ -2,7 +2,8 @@
 content_type: resource
 description: This assignment asks students to write a television script which explores
   the ideas in Susan Sontag's 'Illness as Metaphor'.
-file: /courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/346404ed5fc02ee47cfdb41162a3fd4e_essay3_746.pdf
+file: /ol-ocw-studio-app/courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/346404ed5fc02ee47cfdb41162a3fd4e_essay3_746.pdf
+file_size: 87356
 file_type: application/pdf
 learning_resource_types:
 - Assignments

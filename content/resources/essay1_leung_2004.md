@@ -2,7 +2,8 @@
 content_type: resource
 description: Example of student work for Assignment 1 courtesy of Janet Leung, a student
   in the class.
-file: /courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/6bcffabc0a0f7ac5a9652d36ec07d900_essay1_leung_2004.pdf
+file: /ol-ocw-studio-app/courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/6bcffabc0a0f7ac5a9652d36ec07d900_essay1_leung_2004.pdf
+file_size: 50397
 file_type: application/pdf
 learning_resource_types:
 - Assignments
